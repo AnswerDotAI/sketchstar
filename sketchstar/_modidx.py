@@ -10,4 +10,7 @@ d = { 'settings': { 'branch': 'main',
                                  'sketchstar.core.get_session_gif': ('core.html#get_session_gif', 'sketchstar/core.py'),
                                  'sketchstar.core.get_status': ('core.html#get_status', 'sketchstar/core.py'),
                                  'sketchstar.core.index': ('core.html#index', 'sketchstar/core.py'),
+                                 'sketchstar.core.login': ('core.html#login', 'sketchstar/core.py'),
+                                 'sketchstar.core.logout': ('core.html#logout', 'sketchstar/core.py'),
+                                 'sketchstar.core.signin_completed': ('core.html#signin_completed', 'sketchstar/core.py'),
                                  'sketchstar.core.submit_drawing': ('core.html#submit_drawing', 'sketchstar/core.py')}}}
