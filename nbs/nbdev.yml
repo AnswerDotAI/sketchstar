@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "sketchstar"
+  site-url: "https://RensDimmendaal.github.io/sketchstar"
+  description: "sketch star app"
+  repo-branch: main
+  repo-url: "https://github.com/RensDimmendaal/sketchstar"
