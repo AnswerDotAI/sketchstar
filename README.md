@@ -7,7 +7,10 @@ This repo contains the code of my sketch star game.
 
 You can try it out here: https://you-are-the-sketch-star.pla.sh
 
-The game is built with Plash, FastHTML and FastLite.
+The game is built with [Plash](https://pla.sh),
+[FastHTML](https://fasht.ml),
+[fastlite](https://github.com/answerdotai/fastlite),
+[Gaspard](https://github.com/AnswerDotAI/gaspard).
 
 Watch a demo video here:
 https://youtu.be/ttf8-N3Iafc?si=rJ1eREUahLGiAfFn
