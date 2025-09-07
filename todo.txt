@@ -1,8 +1,0 @@
-1. add plash oauth
-3. mk users and transactions table like ecom example
-4. add payments
-5. add table for upvotes
-6. mk convincing landing page for non-logged in users
-
-
-mk requirements.txt via nbdev_requirements from settings.ini

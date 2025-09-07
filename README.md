@@ -5,7 +5,7 @@
 
 This repo contains the code of my sketch star game.
 
-You can try it out here: https://you-are-the-sketch-star.plash.app/
+You can try it out here: https://you-are-the-sketch-star.pla.sh
 
 The game is built with Plash, FastHTML and FastLite.
 
