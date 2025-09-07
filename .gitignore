@@ -1,7 +1,8 @@
 # Custom
 .sesskey
 plash.env
-data/sessions/*
+data/animations/*
+data/*.db*
 
 # Default
 _docs/

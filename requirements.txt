@@ -2,3 +2,4 @@ python-fasthtml
 Pillow
 google-genai
 gaspard
+plash-cli>=0.3.2
