@@ -148,7 +148,7 @@ async def index(session):
                 Button("Black", onclick="setColor('black')", style="background:black;color:white;margin:2px"),
             ),
             Br(),
-            Button("Save Drawing", onclick="submitCanvas()", id="submit-btn"),
+            Button("Submit Drawing", onclick="submitCanvas()", id="submit-btn"),
             Div(id="result", style="margin-top:20px")(
             Canvas(id="canvas", width="1024", height="1024", style="border:1px solid black"),
             Script("""
@@ -268,7 +268,7 @@ LEFT JOIN vote v ON a.id = v.aid
 WHERE a.status = 'completed'
 GROUP BY a.id 
 ORDER BY vote_count DESC 
-LIMIT 10
+LIMIT 100
 """
 
 # %% ../nbs/00_core.ipynb 18
